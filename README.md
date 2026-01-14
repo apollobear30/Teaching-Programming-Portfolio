@@ -1,0 +1,1 @@
+Hello! My name is Camerin Oliver and my major is Cognitive Science with Specialization in Design and Interaction. Within this repository are videos, and other content related to teaching computational thinking for everyone.
